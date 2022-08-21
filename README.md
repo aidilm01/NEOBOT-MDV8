@@ -1,14 +1,14 @@
-# Bot Whatsapp
-## Beta Multi Device 
+# DILZPXV5
+## BETA BOT MULTI DEVICE
 
 <p align="center">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQMbpnB0PY8P1Ot5I_2-01Xdnhq4xJuctJxQ&usqp=CAU" alt="Neobot-MD" width="200"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQMbpnB0PY8P1Ot5I_2-01Xdnhq4xJuctJxQ&usqp=CAU" alt="Neobot-Md" width="200"/>
 
 <p align="center">
-    <a href="https://Lexxy24.github.io">
+    <a href="https://aidilgm000.github.io">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Neobotz+By+Lexxy+Official+🙏"
-            alt="Subscribe Yt Lexxy Official"
+            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=DILZPX-BOT+By+DIZPPX+YT+🙏"
+            alt="Subscribe Yt DILZPX YT"
         />
     </a>
 </p>
@@ -44,7 +44,7 @@ $ npm start
 
 ## RDP/VPS USER
 ```bash 
-$ git clone https://github.com/Lexxy24/NEOBOT-MDV8
+$ git clone https://github.com/aidilgm000/DILZPXV5
 $ cd NEOBOT-MDV8
 $ yarn install
 $ rm -r session.json
@@ -54,6 +54,6 @@ $ npm start
 # My Sosial
 - [Whatsapp](https://wa.me/6283834558105)
 
-- [YouTube](https://youtube.com/channel/UCLd-bhT8Dqq9PjGc6bWUVyg)
+- [YouTube](https://youtube.com/channel/DILZPX/YT
 - [Group](https://chat.whatsapp.com/E3zewfxrc5pKE6Rzb3BuqG)
-- [Nomor Bot](https://wa.me/6283834558105)
+- [Nomor Bot](https://wa.me/6285724331475)
