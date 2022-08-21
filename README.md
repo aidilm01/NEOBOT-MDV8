@@ -35,7 +35,7 @@ $ pkg install nodejs
 $ pkg install libwebp
 $ pkg install ffmpeg
 $ termux-setup-storage
-$ git clone https://github.com/Lexxy24/NEOBOT-MDV8
+$ git clone https://github.com/aidilgm000/NEOBOT-MDV8.git
 $ cd NEOBOT-MDV8
 $ yarn install
 $ rm -r session.json
@@ -44,7 +44,7 @@ $ npm start
 
 ## RDP/VPS USER
 ```bash 
-$ git clone https://github.com/aidilgm000/DILZPXV5
+$ git clone https://github.com/aidilgm000/NEOBOT-MDV8.git
 $ cd NEOBOT-MDV8
 $ yarn install
 $ rm -r session.json
@@ -52,7 +52,7 @@ $ npm start
 ```
 
 # My Sosial
-- [Whatsapp](https://wa.me/6283834558105)
+- [Whatsapp](https://wa.me/6281380448281)
 
 - [YouTube](https://youtube.com/channel/DILZPX/YT
 - [Group](https://chat.whatsapp.com/E3zewfxrc5pKE6Rzb3BuqG)
