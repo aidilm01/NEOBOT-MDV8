@@ -351,5 +351,7 @@ return `*MAIN MENU*
  • ${prefix}ringtone
  • ${prefix}gsmarena
  • ${prefix}happymod
- • ${prefix}quotesanime`
+ • ${prefix}quotesanime
+*DOWNLOAD*
+ • ${prefix}tiktok`
 }
